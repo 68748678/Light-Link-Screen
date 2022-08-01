@@ -40,3 +40,5 @@ LT6711A
 		144	124.09Gbit/s	No	No	No	No	No	No	No	No	DSC + 4:2:0
 		240	210.10Gbit/s	No	No	No	No	No	No	No	No	No
 ![image](https://user-images.githubusercontent.com/61725067/182102457-2717c249-c4cb-4f71-9079-245dbda4cd99.png)
+![v2-8900de321ca9938c19af51c38902cb7c_r](https://user-images.githubusercontent.com/61725067/182102595-177e5f1e-bacc-44bc-8386-f2c702fe2cfd.jpg)
+
